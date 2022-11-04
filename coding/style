@@ -1,1 +1,22 @@
-*{background-color: blue;}
+p {
+background-color: blue;
+color: white;
+}
+h1 {
+font-size: 3rem;
+}
+header {
+
+}
+
+body {
+
+}
+
+a{
+
+}
+
+#destinations {
+background-color: red;
+}
