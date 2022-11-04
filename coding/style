@@ -1,6 +1,6 @@
 p {
-background-color: blue;
-color: white;
+background-color: #3523FA;
+color: #93FA6B;
 }
 h1 {
 font-size: 3rem;
