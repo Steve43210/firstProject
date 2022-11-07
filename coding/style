@@ -1,9 +1,11 @@
 p {
 background-color: #3523FA;
 color: #93FA6B;
+font-family: serif;
 }
 h1 {
 font-size: 3rem;
+font-family: cursive;
 }
 header {
 
@@ -14,7 +16,9 @@ body {
 }
 
 a{
-
+font-family: sans-serif;
+font-size: 16px;
+font-weight: 900;
 }
 
 #destinations {
